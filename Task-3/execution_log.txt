@@ -1,0 +1,6 @@
+function name <function math_automation at 0x0000018E0E4260C0> => runtime 12.63415265083313
+function name <function regex_log_cleaner at 0x000001DEAEC25A80> => runtime 0.0022308826446533203
+function name <function math_automation at 0x000001E68D0258A0> => runtime 11.424363374710083
+function name <function regex_log_cleaner at 0x000001E68D0259E0> => runtime 0.002984762191772461
+function name <function math_automation at 0x000001FABEA258A0> => runtime 2.8515806198120117
+function name <function regex_log_cleaner at 0x000001FABEA259E0> => runtime 0.0029861927032470703

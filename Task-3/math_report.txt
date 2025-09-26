@@ -1,0 +1,2 @@
+data related to num 1.0 : the floor is 1 and ceil is 1 and square root is 1.0 and finally the area of circle is 3.141592653589793
+data related to num 1.0 : the floor is 1 and ceil is 1 and square root is 1.0 and finally the area of circle is 3.141592653589793

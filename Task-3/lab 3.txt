@@ -1,0 +1,32 @@
+"""
+------------------------------------------------
+Rules:
+    1. Every user input must be validated.
+       - If invalid, print error and ask again until valid.
+    2. Each task must be implemented in a separate .py file.
+       - Each file must contain a function that executes the task.
+    3. A main.py file must import all task modules.
+    4. When main.py runs:
+         - Display a menu showing all tasks with their number & name.
+         - Let the user select which task to execute by entering the task number.
+         - Run only the selected task.
+    5. Use if __name__ == "__main__": script only run in main.py`.
+    6. Use functions and avoid code duplication.
+    7. Add comments explaining each step.
+    8. Automate as much as possible (e.g., file creation, processing).
+    9. No hardcoding results.
+    10. Decorators (Task 7) must be applied to at least two tasks.
+------------------------------------------------
+
+Tasks:
+
+
+
+
+
+
+
+
+
+"""
+
