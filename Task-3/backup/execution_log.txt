@@ -1,0 +1,2 @@
+math_automation ran in 8.688489 seconds
+regex_log_cleaner ran in 0.012000 seconds

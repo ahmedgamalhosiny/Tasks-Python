@@ -1,0 +1,17 @@
+[
+    {
+        "product": "iphone",
+        "price": 10000.0,
+        "discounted": 9000.0
+    },
+    {
+        "product": "book",
+        "price": 500.0,
+        "discounted": 450.0
+    },
+    {
+        "product": "smartwatch",
+        "price": 1200.0,
+        "discounted": 1080.0
+    }
+]
